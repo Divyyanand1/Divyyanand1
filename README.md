@@ -56,8 +56,8 @@ I'm a second-year Computer Science student who enjoys learning programming by bu
 
 I practice DSA regularly to build problem-solving habits, mainly in C++ and Python.
 
-- **LeetCode:** [YOUR_LEETCODE_URL]
-- **Other platforms (optional):** [Codeforces / CodeChef / GeeksforGeeks URL]
+- **LeetCode:** https://leetcode.com/u/Divyanand1/
+- **Other platforms :**https://www.geeksforgeeks.org/profile/ananddivy01 
 
 <!-- Delete this section if you don't have a profile link yet. Add it back once you do. -->
 
