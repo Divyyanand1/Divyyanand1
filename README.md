@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://github.com/Divyyanand1"><img src="https://img.shields.io/badge/GitHub-Divyyanand1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/divy-anand01/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ananddivy16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a first-year Computer Science student who likes turning problems into working code. I'm learning machine learning from the ground up: understanding the data first, then the models. My goal is to become internship-ready in AI/ML by building practical projects and sharing the progress here.
+I'm a second-year Computer Science student who enjoys learning programming by building small, working projects. Right now I'm moving from Python fundamentals toward machine learning, starting with understanding the data before the models. My goal is to become internship-ready in AI/ML by building practical projects and sharing the progress here.
 
 ## Current Focus
 
@@ -39,47 +39,47 @@ I'm a first-year Computer Science student who likes turning problems into workin
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyyanand1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
-<!-- Note: the public github-readme-stats instance is sometimes rate-limited. If the cards stop loading, delete this section or self-host the service. Top languages will stay empty until you have public repos with code. -->
+<!-- If the cards stop loading, the public instance is probably rate-limited. Delete this section or self-host the service. -->
 
 ## Featured Projects
 
-> Replace these placeholders as you finish projects. Aim for 2–4 that you can explain well.
+| Project | What it does | Tech |
+| :-- | :-- | :-- |
+| **[California Housing Price Prediction](https://github.com/Divyyanand1/California-Housing-Price)** | My first ML project: predicts median house values and compares Ridge, Linear, Lasso, and Random Forest regression on scikit-learn's California Housing dataset. Still in progress as I learn proper model evaluation. | Python, Scikit-learn, Pandas, NumPy, Jupyter |
+| **[IPL Data Analysis](https://github.com/Divyyanand1/IPL-Data-Analysis)** | Exploratory analysis of IPL match data: team-wise wins, toss winner vs. match winner, toss decisions, and Player of the Match. | Python, Pandas, Matplotlib, Jupyter |
+| **[Restaurant Billing System](https://github.com/Divyyanand1/Restaurant-Billing-System)** | Console app where a customer orders from a menu, gets a calculated bill, and the bill is saved to a text file. Built to practice OOP, inheritance, and file handling. | Python |
+| **[Student Management System](https://github.com/Divyyanand1/STUDENT_MANAGEMENT_SYSTEM)** | Menu-driven app to add, display, search, and delete student records using lists, dictionaries, and functions. | Python |
 
-| Project | Description | Tech | Link |
-| :-- | :-- | :-- | :-- |
-| **[Project Name 1]** | [One or two lines: what problem it solves and what you learned] | [Python, Pandas, ...] | [Repository](https://github.com/Divyyanand1/[repo-name]) |
-| **[Project Name 2]** | [One or two lines about the goal and approach] | [Python, Scikit-learn, ...] | [Repository](https://github.com/Divyyanand1/[repo-name]) |
-| **[Project Name 3]** | [One or two lines about the goal and approach] | [C++, DSA, ...] | [Repository](https://github.com/Divyyanand1/[repo-name]) |
+<!-- Add new projects as new rows. Keep the best 3-4 as you grow and retire the oldest beginner ones. -->
 
 ## Problem-Solving Journey
 
-I practice DSA regularly to build problem-solving habits.
+I practice DSA regularly to build problem-solving habits, mainly in C++ and Python.
 
 - **LeetCode:** [YOUR_LEETCODE_URL]
 - **Other platforms (optional):** [Codeforces / CodeChef / GeeksforGeeks URL]
-- **Main languages for practice:** C++ and Python
+
+<!-- Delete this section if you don't have a profile link yet. Add it back once you do. -->
 
 ## Learning Goals
 
-- [ ] Finish the Machine Learning fundamentals (regression, classification, evaluation)
+- [ ] Evaluate ML models properly: test-set scoring, cross-validation, and reproducible splits
+- [ ] Learn feature scaling and hyperparameter tuning (`GridSearchCV`)
 - [ ] Complete an end-to-end EDA project on a real dataset
 - [ ] Get comfortable with SQL queries (joins, aggregations)
 - [ ] Build consistency with DSA practice
-- [ ] Publish 2–3 well-documented AI/ML projects
 - [ ] Become internship-ready in AI/ML
 
-<!-- Tick items as you complete them: change [ ] to [x] -->
+<!-- Tick items as you finish them: change [ ] to [x] -->
 
 ## Let's Connect
 
-I'm always happy to talk about AI/ML, projects, or learning resources.
+I'm happy to talk about AI/ML, projects, or learning resources.
 
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
+- **LinkedIn:** [linkedin.com/in/divy-anand01](https://www.linkedin.com/in/divy-anand01/)
 - **GitHub:** [github.com/Divyyanand1](https://github.com/Divyyanand1)
-- **Email:** [YOUR_EMAIL]
+- **Email:** [ananddivy16@gmail.com](mailto:ananddivy16@gmail.com)
 
 ---
 
 <p align="center"><sub>Learning in public, one project at a time.</sub></p>
-
-
