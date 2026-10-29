@@ -32,12 +32,6 @@ I'm a second-year Computer Science student who enjoys learning programming by bu
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **Currently Learning** | SQL · Exploratory Data Analysis · Machine Learning · Data Structures & Algorithms |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyyanand1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyyanand1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
 
 <!-- If the cards stop loading, the public instance is probably rate-limited. Delete this section or self-host the service. -->
 
